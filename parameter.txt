@@ -1,0 +1,3 @@
+input_file_name=D:\1.城建工作\20220710_NSEC计算模拟\大雨数据.csv
+time_interval=4h
+time_step=0.5h
